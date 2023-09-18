@@ -1,0 +1,4 @@
+00000A, pipe, pvc pipe, 15.0
+00000B, laptop, lenovo laptop, 456.0
+00000D, pc, dell pc, 789
+00000E, phone, google pixel, 456
